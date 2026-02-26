@@ -1,0 +1,184 @@
+{
+    "nav": {
+        "home": "Trang chủ",
+        "about": "Về tôi",
+        "strategy": "Chiến lược",
+        "results": "Kết quả",
+        "services": "Dịch vụ",
+        "blog": "Blog",
+        "contact": "Liên hệ"
+    },
+    "hero": {
+        "title": "Giúp Trader Giao Dịch<br />Có Kỷ Luật & Quản Lý Vốn Hiệu Quả",
+        "subtitle": "Không hứa hẹn lợi nhuận phi thực tế. Chỉ chia sẻ kinh nghiệm thực chiến, phương pháp quản lý rủi ro và tâm lý giao dịch đúng đắn.",
+        "cta_contact": "Liên hệ tư vấn",
+        "cta_youtube": "Kênh YouTube",
+        "stats": {
+            "exp": "Năm kinh nghiệm",
+            "markets": "Thị trường giao dịch",
+            "students": "Học viên đã đào tạo"
+        }
+    },
+    "features": {
+        "discipline": {
+            "title": "Kỷ luật giao dịch",
+            "desc": "Tuân thủ kế hoạch và nguyên tắc giao dịch nghiêm ngặt"
+        },
+        "risk_management": {
+            "title": "Quản lý vốn",
+            "desc": "Bảo vệ tài khoản với risk/reward hợp lý mọi lệnh"
+        },
+        "psychology": {
+            "title": "Tâm lý trading",
+            "desc": "Kiểm soát cảm xúc và giữ vững tâm lý trong mọi tình huống"
+        }
+    },
+    "footer": {
+        "rights": "© {{year}} OV6. Bảo lưu mọi quyền.",
+        "dedication": "Làm với sự cống hiến cho giáo dục giao dịch trung thực",
+        "about_desc": "Chia sẻ kinh nghiệm thực chiến, phương pháp quản lý rủi ro và tâm lý giao dịch đúng đắn.",
+        "quick_links": "Liên kết nhanh",
+        "contact": "Liên hệ",
+        "social": "Theo dõi tôi",
+        "disclaimer": {
+            "title": "Tuyên Bố Miễn Trừ Trách Nhiệm",
+            "risk": "<strong>Rủi ro cao:</strong> Trading trên thị trường tài chính có độ rủi ro cao và không phù hợp với tất cả mọi người. Bạn có thể mất toàn bộ số vốn đầu tư ban đầu.",
+            "advice": "<strong>Không phải lời khuyên tài chính:</strong> Tất cả thông tin trên website này chỉ mang tính chất chia sẻ kinh nghiệm cá nhân và không được coi là lời khuyên đầu tư hay tài chính. Bạn nên tự nghiên cứu kỹ lưỡng hoặc tham khảo ý kiến chuyên gia trước khi đưa ra quyết định.",
+            "performance": "<strong>Hiệu suất trong quá khứ:</strong> Kết quả giao dịch trong quá khứ không đảm bảo kết quả trong tương lai. Mọi con số được chia sẻ chỉ mang tính chất minh họa.",
+            "transparency": "<strong>Minh bạch:</strong> Tôi cam kết chia sẻ trung thực về cả thành công lẫn thất bại trong hành trình trading của mình. Không có \"bí kíp thần thánh\" hay lợi nhuận đảm bảo trong lĩnh vực này."
+        }
+    },
+    "strategy": {
+        "title": "Chiến Lược Giao Dịch",
+        "method_title": "Phương Pháp Giao Dịch",
+        "method_desc": "Tôi sử dụng phương pháp Price Action kết hợp với ICT (Inner Circle Trader) concepts để xác định các zone quan trọng trên thị trường. Không sử dụng nhiều indicator phức tạp, mà tập trung vào cấu trúc giá, liquidity và order flow.",
+        "methods": {
+            "0": "Xác định xu hướng và cấu trúc thị trường",
+            "1": "Tìm kiếm supply/demand zones và liquidity pools",
+            "2": "Chờ đợi confirmation trước khi vào lệnh",
+            "3": "Risk/Reward tối thiểu 1:2 cho mọi setup"
+        },
+        "risk_title": "Quản Lý Rủi Ro",
+        "risk_items": {
+            "0": {
+                "value": "1-2%",
+                "title": "Risk per Trade",
+                "desc": "Không bao giờ risk quá 2% tài khoản cho một lệnh"
+            },
+            "1": {
+                "value": "Cố định",
+                "title": "Position Sizing",
+                "desc": "Tính toán lot size dựa trên stop loss và % risk"
+            },
+            "2": {
+                "value": "5%",
+                "title": "Max Daily Loss",
+                "desc": "Dừng giao dịch khi loss đạt 5% trong ngày"
+            }
+        },
+        "diff_title": "Điều Gì Khiến Phương Pháp Này Khác Biệt?",
+        "diff_desc": [
+            "Tập trung vào hành vi thị trường và tâm lý đám đông, không chạy theo chỉ báo ảo.",
+            "Xác suất thắng không phải là tất cả - Quản lý vốn là chìa khóa.",
+            "Lợi nhuận nhất quán đến từ kỷ luật, không phải từ 'bí kíp thần thánh'."
+        ]
+    },
+    "results": {
+        "title": "Kết Quả & Minh Bạch",
+        "notice_title": "Lưu ý quan trọng",
+        "notice_desc": "Kết quả giao dịch trong quá khứ không đảm bảo lợi nhuận trong tương lai. Mọi con số dưới đây chỉ mang tính chất tham khảo và phản ánh quá trình học hỏi của cá nhân tôi. Trading luôn có rủi ro và bạn có thể mất toàn bộ vốn đầu tư.",
+        "journal_title": "Nhật Ký Giao Dịch",
+        "journal_desc": "Tôi ghi chép lại mọi lệnh giao dịch của mình với đầy đủ thông tin: entry, stop loss, take profit, lý do vào lệnh, cảm xúc lúc đó, và bài học rút ra. Đây là công cụ quan trọng nhất giúp tôi cải thiện kỹ năng.",
+        "stats_title": "Thống Kê Hiệu Suất",
+        "stats_labels": {
+            "win_rate": "Win Rate",
+            "profit_factor": "Profit Factor",
+            "max_drawdown": "Max Drawdown"
+        },
+        "stats_note": "* Thống kê dựa trên 200+ lệnh giao dịch trong 12 tháng qua",
+        "explanation_title": "Giải Thích Về Hiệu Suất",
+        "explanation_p1": "Win rate 58% có nghĩa là trong 100 lệnh, tôi thắng 58 lệnh và thua 42 lệnh. Tuy nhiên, nhờ có risk/reward ratio 1:2.5, những lệnh thắng của tôi lớn hơn nhiều so với những lệnh thua. Đây là minh chứng cho việc quản lý rủi ro đúng đắn quan trọng hơn tỷ lệ thắng cao.",
+        "explanation_p2": "Max drawdown -12% là mức loss tối đa tôi chấp nhận trong tài khoản. Điều này cho thấy tôi luôn tuân thủ nguyên tắc quản lý vốn và không để cảm xúc chi phối quyết định giao dịch."
+    },
+    "services": {
+        "title": "Dịch Vụ",
+        "items": {
+            "course": {
+                "title": "Khóa Học Trading",
+                "audience": "Dành cho người mới - trung bình",
+                "includes": {
+                    "0": "Kiến thức Price Action & ICT trọn bộ",
+                    "1": "Phương pháp quản lý vốn & tâm lý",
+                    "2": "Hỗ trợ trọn đời trong group kín",
+                    "3": "Live trading thực chiến hàng tuần"
+                }
+            },
+            "signals": {
+                "title": "Nhóm Tín Hiệu",
+                "audience": "Dành cho người bận rộn",
+                "includes": {
+                    "0": "Tín hiệu chất lượng cao (2-3/ngày)",
+                    "1": "Entry, SL, TP rõ ràng",
+                    "2": "Phân tích chi tiết tại sao vào lệnh",
+                    "3": "Cập nhật quản lý lệnh từ xa"
+                }
+            },
+            "mentoring": {
+                "title": "Mentoring 1-1",
+                "audience": "Dành cho người muốn nhanh chóng có kết quả",
+                "includes": {
+                    "0": "Coaching trực tiếp 1-1",
+                    "1": "Lộ trình cá nhân hóa",
+                    "2": "Review nhật ký giao dịch hàng tuần",
+                    "3": "Hỗ trợ đến khi có lợi nhuận"
+                }
+            }
+        },
+        "cta": "Liên hệ ngay"
+    },
+    "blog": {
+        "title": "Blog & Phân Tích Thị Trường",
+        "read_more": "Đọc thêm",
+        "posts": {
+            "0": {
+                "title": "Vì Sao 90% Trader Thua Lỗ?",
+                "date": "20/12/2025",
+                "excerpt": "Phân tích sâu về những lý do phổ biến khiến đa số trader thất bại và cách khắc phục...",
+                "category": "Tâm lý Trading"
+            },
+            "1": {
+                "title": "Cách Tôi Quản Lý Rủi Ro Mỗi Lệnh",
+                "date": "18/12/2025",
+                "excerpt": "Chia sẻ chi tiết về quy trình quản lý vốn và tính toán position size cho mỗi giao dịch...",
+                "category": "Quản lý vốn"
+            },
+            "2": {
+                "title": "Phân Tích EUR/USD Tuần Này",
+                "date": "16/12/2025",
+                "excerpt": "Nhìn vào cấu trúc giá, supply/demand zones và kịch bản giao dịch tiềm năng...",
+                "category": "Phân tích"
+            }
+        }
+    },
+    "contact": {
+        "title": "Liên Hệ",
+        "subtitle": "Hãy liên hệ với chúng tôi để được tư vấn và hỗ trợ tốt nhất",
+        "connect_title": "Kết Nối Với Tôi",
+        "connect_desc": "Hãy liên hệ nếu bạn có bất kỳ câu hỏi nào về trading, hoặc muốn tìm hiểu thêm về các dịch vụ của tôi. Tôi luôn sẵn sàng hỗ trợ những trader nghiêm túc muốn phát triển bản thân.",
+        "labels": {
+            "phone": "Điện thoại",
+            "zalo": "Zalo",
+            "email": "Email",
+            "youtube": "YouTube",
+            "tiktok": "TikTok"
+        },
+        "form": {
+            "title": "Gửi Tin Nhắn",
+            "name": "Họ tên",
+            "email": "Email",
+            "message": "Tin nhắn",
+            "message_placeholder": "Tôi muốn tìm hiểu thêm về...",
+            "submit": "Gửi tin nhắn"
+        }
+    }
+}

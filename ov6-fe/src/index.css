@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── CSS variables for accent color ─────────────────────────────── */
+:root {
+  --accent: #F5C518;
+  --accent-glow: rgba(245, 197, 24, 0.35);
+}
+
+/* ── Base body ───────────────────────────────────────────────────── */
+@layer base {
+  body {
+    @apply bg-[#080808] text-white font-sans antialiased;
+  }
+}
+
+/* ── Smooth scrolling ────────────────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ── Scrollbar — gold theme ──────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #F5C518, #B8860B);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #FFD700, #F5C518);
+}
+
+/* ── Utility: gold glow text ─────────────────────────────────────── */
+.gold-glow-text {
+  text-shadow: 0 0 20px rgba(245, 197, 24, 0.55), 0 0 40px rgba(245, 197, 24, 0.25);
+}
+
+/* ── Utility: gold glow button ───────────────────────────────────── */
+.gold-glow-btn {
+  box-shadow: 0 0 20px rgba(245, 197, 24, 0.4), 0 0 40px rgba(245, 197, 24, 0.2);
+  transition: box-shadow 0.3s ease;
+}
+
+.gold-glow-btn:hover {
+  box-shadow: 0 0 35px rgba(245, 197, 24, 0.7), 0 0 70px rgba(245, 197, 24, 0.4);
+}
+
+/* ── Reusable section heading accent bar ─────────────────────────── */
+.accent-bar {
+  height: 3px;
+  width: 80px;
+  background: linear-gradient(90deg, #F5C518, #B8860B);
+  border-radius: 9999px;
+  box-shadow: 0 0 10px rgba(245, 197, 24, 0.5);
+}

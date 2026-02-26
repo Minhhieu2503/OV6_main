@@ -1,0 +1,184 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Me",
+        "strategy": "Strategy",
+        "results": "Results",
+        "services": "Services",
+        "blog": "Blog",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Helping Traders Trade<br />With Discipline & Risk Management",
+        "subtitle": "No unrealistic profit promises. Only sharing practical experience, risk management methods, and correct trading psychology.",
+        "cta_contact": "Contact Now",
+        "cta_youtube": "YouTube Channel",
+        "stats": {
+            "exp": "Years Experience",
+            "markets": "Markets Traded",
+            "students": "Students Trained"
+        }
+    },
+    "features": {
+        "discipline": {
+            "title": "Trading Discipline",
+            "desc": "Strictly adhering to trading plans and principles"
+        },
+        "risk_management": {
+            "title": "Risk Management",
+            "desc": "Protecting capital with reasonable risk/reward on every trade"
+        },
+        "psychology": {
+            "title": "Trading Psychology",
+            "desc": "Controlling emotions and maintaining psychology in all situations"
+        }
+    },
+    "footer": {
+        "rights": "© {{year}} OV6. All rights reserved.",
+        "dedication": "Made with dedication to honest trading education",
+        "about_desc": "Sharing practical trading experiences, risk management methods, and proper trading psychology.",
+        "quick_links": "Quick Links",
+        "contact": "Contact",
+        "social": "Follow Us",
+        "disclaimer": {
+            "title": "Disclaimer",
+            "risk": "<strong>High Risk:</strong> Trading financial markets involves high risk and is not suitable for everyone. You can lose your entire initial investment.",
+            "advice": "<strong>Not Financial Advice:</strong> All information on this website is for sharing personal experience only and should not be considered investment or financial advice. You should do your own thorough research or consult an expert before making a decision.",
+            "performance": "<strong>Past Performance:</strong> Past trading results do not guarantee future results. All figures shared are for illustrative purposes only.",
+            "transparency": "<strong>Transparency:</strong> I commit to sharing honestly about both successes and failures in my trading journey. There are no \"holy grails\" or guaranteed profits in this field."
+        }
+    },
+    "strategy": {
+        "title": "Trading Strategy",
+        "method_title": "Trading Method",
+        "method_desc": "I use Price Action combined with ICT (Inner Circle Trader) concepts to identify key zones in the market. No complex indicators, focusing on price structure, liquidity, and order flow.",
+        "methods": {
+            "0": "Identify market trend and structure",
+            "1": "Find supply/demand zones and liquidity pools",
+            "2": "Wait for confirmation before entering trade",
+            "3": "Minimum Risk/Reward 1:2 for every setup"
+        },
+        "risk_title": "Risk Management",
+        "risk_items": {
+            "0": {
+                "value": "1-2%",
+                "title": "Risk per Trade",
+                "desc": "Never risk more than 2% of account per trade"
+            },
+            "1": {
+                "value": "Fixed",
+                "title": "Position Sizing",
+                "desc": "Calculate lot size based on stop loss and % risk"
+            },
+            "2": {
+                "value": "5%",
+                "title": "Max Daily Loss",
+                "desc": "Stop trading when loss reaches 5% in a day"
+            }
+        },
+        "diff_title": "What Makes This Approach Different?",
+        "diff_desc": [
+            "Focus on market behavior and crowd psychology, not lagging indicators.",
+            "Win rate isn't everything - Risk management is the key.",
+            "Consistent profits come from discipline, not 'holy grail' strategies."
+        ]
+    },
+    "results": {
+        "title": "Results & Transparency",
+        "notice_title": "Important Notice",
+        "notice_desc": "Past trading results do not guarantee future profits. All figures below are for reference only and reflect my personal learning process. Trading always carries risk and you can lose your entire investment capital.",
+        "journal_title": "Trading Journal",
+        "journal_desc": "I record every trade with full details: entry, stop loss, take profit, entry reason, emotions at that time, and lessons learned. This is the most important tool helping me improve my skills.",
+        "stats_title": "Performance Statistics",
+        "stats_labels": {
+            "win_rate": "Win Rate",
+            "profit_factor": "Profit Factor",
+            "max_drawdown": "Max Drawdown"
+        },
+        "stats_note": "* Statistics based on 200+ trades in the last 12 months",
+        "explanation_title": "Performance Explanation",
+        "explanation_p1": "A 58% Win rate means out of 100 trades, I win 58 and lose 42. However, thanks to a 1:2.5 risk/reward ratio, my winning trades are much larger than losing ones. This is proof that proper risk management is more important than high win rate.",
+        "explanation_p2": "Max drawdown -12% is the maximum loss level I accept in the account. This shows I always adhere to capital management principles and do not let emotions dictate trading decisions."
+    },
+    "services": {
+        "title": "Services",
+        "items": {
+            "course": {
+                "title": "Trading Course",
+                "audience": "For beginners to intermediate",
+                "includes": {
+                    "0": "Complete Price Action & ICT knowledge",
+                    "1": "Risk management & psychology methods",
+                    "2": "Lifetime support in private group",
+                    "3": "Weekly live trading sessions"
+                }
+            },
+            "signals": {
+                "title": "Trading Signals",
+                "audience": "For busy people",
+                "includes": {
+                    "0": "High quality signals (2-3/day)",
+                    "1": "Clear Entry, SL, TP",
+                    "2": "Detailed analysis why entering trade",
+                    "3": "Manage lệnh updates remotely"
+                }
+            },
+            "mentoring": {
+                "title": "1-on-1 Mentoring",
+                "audience": "For those wanting fast results",
+                "includes": {
+                    "0": "Direct coaching 1-on-1",
+                    "1": "Personalized roadmap",
+                    "2": "Review trading journal weekly",
+                    "3": "Support until profitable"
+                }
+            }
+        },
+        "cta": "Contact Now"
+    },
+    "contact": {
+        "title": "Contact",
+        "subtitle": "Contact us for the best advice and support",
+        "connect_title": "Connect With Me",
+        "connect_desc": "Contact if you have any questions about trading, or want to learn more about my services. I am always ready to support serious traders who want to develop themselves.",
+        "labels": {
+            "phone": "Phone",
+            "zalo": "Zalo",
+            "email": "Email",
+            "youtube": "YouTube",
+            "tiktok": "TikTok"
+        },
+        "form": {
+            "title": "Send Message",
+            "name": "Full Name",
+            "email": "Email",
+            "message": "Message",
+            "message_placeholder": "I want to learn more about...",
+            "submit": "Send Message"
+        }
+    },
+    "blog": {
+        "title": "Blog & Market Analysis",
+        "read_more": "Read More",
+        "posts": {
+            "0": {
+                "title": "Why 90% of Traders Fail?",
+                "date": "20/12/2025",
+                "excerpt": "Deep analysis of common reasons why most traders fail and how to fix them...",
+                "category": "Trading Psychology"
+            },
+            "1": {
+                "title": "How I Manage Risk Per Trade",
+                "date": "18/12/2025",
+                "excerpt": "Detailed sharing of capital management process and position sizing calculation for each trade...",
+                "category": "Risk Management"
+            },
+            "2": {
+                "title": "EUR/USD Analysis This Week",
+                "date": "16/12/2025",
+                "excerpt": "Looking at price structure, supply/demand zones and potential trading scenarios...",
+                "category": "Analysis"
+            }
+        }
+    }
+}
